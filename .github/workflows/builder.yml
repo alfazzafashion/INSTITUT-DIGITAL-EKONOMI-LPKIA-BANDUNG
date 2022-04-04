@@ -1,11 +1,11 @@
-name: Build LPU LIVE CHAT
+name: Build LPKIA-Live-Registration
 
 on:
   - push
 
 jobs:
   build:
-    name: Build LPU LIVE CHAT
+    name: Build LPKIA-Live-Registration
     runs-on: ${{ matrix.os }}
     strategy:
       fail-fast: true
