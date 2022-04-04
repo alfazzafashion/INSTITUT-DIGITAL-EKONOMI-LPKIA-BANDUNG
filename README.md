@@ -1,2 +1,2 @@
 # INSTITUT-DIGITAL-EKONOMI-LPKIA-BANDUNG
-An Electron App for LPKIA Live Registration
+*Electron App for LPKIA Live Registration*
